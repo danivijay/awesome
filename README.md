@@ -65,7 +65,7 @@
 ## Data-Sets
 
 - [Datasets Categorised](https://elitedatascience.com/datasets#) - A curated list of free datasets for data science and machine learning, organized by their use case.
-
+- [Books Dataset](http://www2.informatik.uni-freiburg.de/~cziegler/BX/) - Free books dataset.
 
 
 ## License
