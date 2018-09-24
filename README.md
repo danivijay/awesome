@@ -30,6 +30,8 @@
 - [Data Science](#data-science)
 - [Udacity](#udacity)
 - [Data Sets](#data-sets)
+- [Game Development](#game-development)
+- [Web Development](#web-development)
 
 
 ## Machine-Learning
@@ -67,6 +69,16 @@
 
 - [Datasets Categorised](https://elitedatascience.com/datasets#) - A curated list of free datasets for data science and machine learning, organized by their use case.
 - [Books Dataset](http://www2.informatik.uni-freiburg.de/~cziegler/BX/) - Free books dataset.
+
+
+## Game-Development
+
+- [Magic tools for game development](https://github.com/ellisonleao/magictools) - A list of Game Development resources to make magic happen.
+
+
+## Web-Development
+
+- [Awesome PHP](https://github.com/ziadoz/awesome-php) - AA curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 
 ## License
