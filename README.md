@@ -45,6 +45,7 @@
 - [Awesome Tensorflow](https://github.com/jtoy/awesome-tensorflow) - A curated list of awesome TensorFlow experiments, libraries, and projects. Inspired by awesome-machine-learning.
 - [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - A curated list of awesome deep learning libraries, and projects.
 - [Project Ideas](https://github.com/NirantK/awesome-project-ideas) - Curated List of Practical Deep Learning, Machine learning project Ideas
+- [Tensorflow Handbook](https://github.com/snowkylin/TensorFlow-cn) - A concise handbook of tensorflow.
 
 
 ## Computer-Vision
