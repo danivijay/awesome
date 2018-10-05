@@ -32,6 +32,7 @@
 - [Data Sets](#data-sets)
 - [Game Development](#game-development)
 - [Web Development](#web-development)
+- [Linux](#linux)
 
 
 ## Machine-Learning
@@ -78,7 +79,12 @@
 
 ## Web-Development
 
-- [Awesome PHP](https://github.com/ziadoz/awesome-php) - AA curated list of amazingly awesome PHP libraries, resources and shiny things.
+- [Awesome PHP](https://github.com/ziadoz/awesome-php) - A curated list of amazingly awesome PHP libraries, resources and shiny things.
+
+
+## Linux
+
+- [Awesome Linux](https://github.com/aleksandar-todorovic/awesome-linux) - We all know that Linux is awesome, but here's a list of especially awesome things related to the Linux ecosystem.
 
 
 ## License
