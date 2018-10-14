@@ -90,7 +90,7 @@
 
 ## Reverse-Engineering
 
-- [Reverse Engineering](https://github.com/wtsxDev/reverse-engineering - A curated list of awesome reversing resources.
+- [Reverse Engineering](https://github.com/wtsxDev/reverse-engineering) - A curated list of awesome reversing resources.
 
 
 ## License
