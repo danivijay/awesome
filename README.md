@@ -33,6 +33,7 @@
 - [Game Development](#game-development)
 - [Web Development](#web-development)
 - [Linux](#linux)
+- [Reverse Engineering](#reverse-engineering)
 
 
 ## Machine-Learning
@@ -85,6 +86,11 @@
 ## Linux
 
 - [Awesome Linux](https://github.com/aleksandar-todorovic/awesome-linux) - We all know that Linux is awesome, but here's a list of especially awesome things related to the Linux ecosystem.
+
+
+## Reverse-Engineering
+
+- [Reverse Engineering](https://github.com/wtsxDev/reverse-engineering - A curated list of awesome reversing resources.
 
 
 ## License
