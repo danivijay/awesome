@@ -50,6 +50,7 @@
 - [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - A curated list of awesome deep learning libraries, and projects.
 - [Project Ideas](https://github.com/NirantK/awesome-project-ideas) - Curated List of Practical Deep Learning, Machine learning project Ideas
 - [Tensorflow Handbook](https://github.com/snowkylin/TensorFlow-cn) - A concise handbook of tensorflow.
+- [Awesome Autonomous Vehicles](https://github.com/takeitallsource/awesome-autonomous-vehicles) - Curated List of Self-Driving Cars and Autonomous Vehicles Resources.
 
 
 ## Computer-Vision
