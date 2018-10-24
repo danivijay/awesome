@@ -34,6 +34,7 @@
 - [Web Development](#web-development)
 - [Linux](#linux)
 - [MOOC'S](#moocs)
+- [Reverse Engineering](#reverse-engineering)
 
 
 ## Machine-Learning
@@ -50,6 +51,7 @@
 - [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - A curated list of awesome deep learning libraries, and projects.
 - [Project Ideas](https://github.com/NirantK/awesome-project-ideas) - Curated List of Practical Deep Learning, Machine learning project Ideas
 - [Tensorflow Handbook](https://github.com/snowkylin/TensorFlow-cn) - A concise handbook of tensorflow.
+- [Awesome Autonomous Vehicles](https://github.com/takeitallsource/awesome-autonomous-vehicles) - Curated List of Self-Driving Cars and Autonomous Vehicles Resources.
 
 
 ## Computer-Vision
@@ -87,9 +89,16 @@
 
 - [Awesome Linux](https://github.com/aleksandar-todorovic/awesome-linux) - We all know that Linux is awesome, but here's a list of especially awesome things related to the Linux ecosystem.
 
+
 ## MOOCS
 
 - [MOOCS Providers List](https://www.class-central.com/providers) - Class Central is a search engine and reviews site for free online courses popularly known as MOOCs or Massive Open Online Courses.It has provided a list of 41 reqistered websites with 5000+ courses.
+
+
+## Reverse-Engineering
+
+- [Reverse Engineering](https://github.com/wtsxDev/reverse-engineering) - A curated list of awesome reversing resources.
+
 
 ## License
 
