@@ -1,5 +1,6 @@
 # Submitting Pull Request
-**FOR LAHORE SCHOOL OF AI MEMBERS**
+**FOR LAHORE SCHOOL OF AI MEMBERS**:
+
 We tried our best to make pull request super **simple**, just follow the steps:
 1. Clone this repository
 2. Create branch with your name as prefix (`muhammadhaseeb-deeplearning`) like this
@@ -7,7 +8,8 @@ We tried our best to make pull request super **simple**, just follow the steps:
 4. We'll do the rest!!
 5. Party!
 # You want to contribute?
-**FOR LAHORE SCHOOL OF AI NON MEMBERS**
+**FOR LAHORE SCHOOL OF AI NON MEMBERS**:
+
 We open our doors for everyone to contribute, we would love to see you contributing!
 ## How to contribute?
 1. Clone this repository
