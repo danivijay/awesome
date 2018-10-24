@@ -1,26 +1,21 @@
-# Contribution Guidelines
-
-Please note that this project is released with a [Contributor Code of Conduct](code-of-conduct.md). By participating in this project you agree to abide by its terms.
-
-## Adding a awesome list
-
-Please ensure your pull request adheres to the [list guidelines](pull_request_template.md).
-
-## Adding something to an awesome list
-
-If you have something awesome to contribute to an awesome list, this is how you do it.
-
-You'll need a [GitHub account](https://github.com/join)!
-
-1. Access the awesome list's GitHub page. For example: https://github.com/iam-mhaseeb/awesome
-2. Click on the `readme.md` file: 
-3. Now click on the edit icon. 
-4. You can start editing the text of the file in the in-browser editor. Make sure you follow guidelines above. You can use [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/).
-5. Say why you're proposing the changes, and then click on "Propose file change". 
-6. Submit the [pull request](https://help.github.com/articles/using-pull-requests/)!
-
-## Updating your Pull Request
-
-Sometimes, a maintainer of an awesome list will ask you to edit your Pull Request before it is included. This is normally due to spelling errors or because your PR didn't match the awesome-* list guidelines.
-
-[Here](https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md) is a write up on how to change a Pull Request, and the different ways you can do that.
+# Submitting Pull Request
+**FOR LAHORE SCHOOL OF AI MEMBERS**
+We tried our best to make pull request super **simple**, just follow the steps:
+1. Clone this repository
+2. Create branch with your name as prefix (`muhammadhaseeb-deeplearning`) like this
+3. Submit pull request to master with title of your branch (`muhammadhaseeb_deeplearning`) and description with the details of content.
+4. We'll do the rest!!
+5. Party!
+# You want to contribute?
+**FOR LAHORE SCHOOL OF AI NON MEMBERS**
+We open our doors for everyone to contribute, we would love to see you contributing!
+## How to contribute?
+1. Clone this repository
+2. Create branch with your name as prefix (`muhammadhaseeb-contributor`) like this
+3. Submit pull request to master with title of your branch (`muhammadhaseeb_contributor`) and description with the details of content you want to contribute.
+4. We'll do the rest!!
+5. Party!
+# What's expected from you?
+1. Be nice!
+2. Don't make unnecessary pull requests
+3. Use the content in a nice way (Give credit to us while sharing content)
