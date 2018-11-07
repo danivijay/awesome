@@ -34,6 +34,7 @@
 - [Linux](#linux)
 - [MOOC'S](#moocs)
 - [Reverse Engineering](#reverse-engineering)
+- [Datasets](#datasets)
 
 
 ## Machine-Learning
@@ -97,6 +98,11 @@
 ## Reverse-Engineering
 
 - [Reverse Engineering](https://github.com/wtsxDev/reverse-engineering) - A curated list of awesome reversing resources.
+
+
+## Datasets
+
+- [Datasets](https://github.com/awesomedata/awesome-public-datasets) -A topic-centric list of high-quality open datasets in public domains.
 
 
 ## License
