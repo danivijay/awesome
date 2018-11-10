@@ -43,6 +43,7 @@
 - [Learn Machine Learning in 3 Months](https://github.com/lazyprogrammer/machine_learning_examples) - This is the Curriculum for "Learn Machine Learning in 3 Months" [this](https://www.youtube.com/watch?v=Cr6VqTRO1v0&feature=youtu.be) video by Siraj Raval on Youtube
 - [Project Ideas](https://github.com/NirantK/awesome-project-ideas) - Curated List of Practical Deep Learning, Machine learning project Ideas
 - [Machine Learning for Software Developers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) - Top-down learning path: Machine Learning for Software Engineers
+- [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome machine learning frameworks, libraries and software.
 
 
 ## Deep-Learning
@@ -62,6 +63,7 @@
 ## Data-Science
 
 - [Data Science Elite Primer ](https://elitedatascience.com/primer) - A data science primer for beignners.
+- [Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience) - An open source Data Science repository to learn and apply towards solving real world problems.
 
 
 ## Udacity
